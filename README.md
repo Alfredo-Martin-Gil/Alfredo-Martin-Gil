@@ -6,6 +6,12 @@ Physician working at the intersection of clinical workflows, auditable AI protot
 
 My public portfolio is intentionally small: one applied research prototype, one conceptual safety architecture, and one clinical-operational foundation. Together, they show how I move from a real workflow problem to a bounded technical exploration and a research agenda.
 
+## Portfolio at a glance
+
+- [One-page portfolio](ONE_PAGE_PORTFOLIO.md) — concise, printable overview.
+- [Evidence inventory](EVIDENCE_INVENTORY.md) — artefacts, current commits, evidence types, and limits.
+- [Reusable CV summary](CV_SUMMARY.md) — short descriptions for Canadian applications.
+
 ## Selected Clinical AI portfolio
 
 ### 1. Clinical NLP Triage — applied research prototype
@@ -26,13 +32,13 @@ A research-stage conceptual architecture exploring whether AI could support reas
 
 **Demonstrates:** safety-oriented research framing, human factors, workflow boundaries, failure-mode thinking, and validation planning.
 
-**Boundary:** conceptual research artifact. It has no implemented algorithm, clinical validation, deployment, or regulatory status.
+**Boundary:** conceptual research artefact. It has no implemented algorithm, clinical validation, deployment, or regulatory status.
 
 ### 3. Prehospital Clinical Decision Uncertainty — clinical foundation
 
 [**prehospital-clinical-decision-uncertainty**](https://github.com/Alfredo-Martin-Gil/prehospital-clinical-decision-uncertainty)
 
-A clinical-operational analysis of decision-making under uncertainty in prehospital care, using acute dyspnea as a worked context.
+A clinical-operational analysis of decision-making under uncertainty in prehospital care, using acute dyspnoea as a worked context.
 
 **Demonstrates:** workflow analysis, uncertainty management, reassessment, responsibility boundaries, and requirements for responsible decision support.
 
@@ -67,8 +73,13 @@ The repositories above contain different kinds of evidence: a research prototype
 
 Synthetic benchmark results are engineering evidence only and do not establish clinical performance or safety.
 
+## Verified repository state
+
+The [evidence inventory](EVIDENCE_INVENTORY.md) links the current integration commits, including the flagship safety-coherence work, the residual-claim correction, the two supporting-project consolidations, and the historical-repository redirects.
+
 ## Connect
 
+- Email: [alfredomartinmedico@gmail.com](mailto:alfredomartinmedico@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alfredo-martin-gil-4189a12b7/)
 - [GitHub repositories](https://github.com/Alfredo-Martin-Gil?tab=repositories)
 
