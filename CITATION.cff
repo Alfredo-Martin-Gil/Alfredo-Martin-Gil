@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "If you reference this portfolio, please cite it using the metadata below."
 title: "Clinical AI Portfolio"
-type: software
 authors:
   - family-names: "Martín Gil"
     given-names: "Alfredo"
@@ -15,7 +14,7 @@ keywords:
   - human oversight
   - clinical workflow
 abstract: >-
-  A curated portfolio linking a synthetic-data clinical NLP research
-  prototype, a conceptual reflective-safety architecture, and a
+  A curated documentation portfolio linking a synthetic-data clinical NLP
+  research prototype, a conceptual reflective-safety architecture, and a
   clinical-operational analysis of prehospital decision-making under
   uncertainty. The portfolio does not claim clinical validation or deployment.
