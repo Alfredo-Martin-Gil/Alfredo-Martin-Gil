@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you reference this portfolio, please cite it using the metadata below."
+title: "Clinical AI Portfolio"
+type: software
+authors:
+  - family-names: "Martín Gil"
+    given-names: "Alfredo"
+repository-code: "https://github.com/Alfredo-Martin-Gil/Alfredo-Martin-Gil"
+url: "https://github.com/Alfredo-Martin-Gil"
+license: MIT
+date-released: 2026-08-07
+keywords:
+  - clinical artificial intelligence
+  - healthcare implementation
+  - patient safety
+  - human oversight
+  - clinical workflow
+abstract: >-
+  A curated portfolio linking a synthetic-data clinical NLP research
+  prototype, a conceptual reflective-safety architecture, and a
+  clinical-operational analysis of prehospital decision-making under
+  uncertainty. The portfolio does not claim clinical validation or deployment.
