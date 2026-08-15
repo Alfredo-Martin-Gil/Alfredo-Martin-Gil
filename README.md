@@ -60,6 +60,22 @@ This sequence supports implementation work without turning a prototype or concep
 - Explainability, traceability, and governance boundaries
 - Communication across clinical, technical, research, and product teams
 
+## Published books
+
+- **Implantación y gobernanza de inteligencia artificial en sanidad: Del problema clínico a la validación, integración, monitorización y retirada del sistema.** ISBN-13: `979-8189973345`. Kindle ASIN: `B0HCF3K6J3`. Paperback ASIN: `B0HCDQM3Y7`.
+- **IA GENERATIVA EN LA PRÁCTICA SANITARIA: Cómo utilizar, evaluar y supervisar sistemas generativos con seguridad.** ISBN-13: `979-8189603921`. Kindle ASIN: `B0H6BGQKQS`. Paperback ASIN: `B0HCDG1N63`.
+- **Clinical AI Implementation and Governance: From Clinical Need and Local Validation to Safe Deployment, Monitoring, and System Retirement.** ISBN-13: `979-8190508161`. Kindle ASIN: `B0HCKMHRCQ`. Paperback ASIN: `B0HCTSNL6T`.
+
+### Editorial work in progress
+
+- **Inteligencia artificial en pacientes complejos y de alto riesgo.** Spanish-language manuscript in final editorial proofing, with a verified reflowable EPUB and 17 × 25 cm print-layout proof. Not yet published; no ISBN is claimed.
+
+## Current professional development
+
+- **Procesos de decisión organizacional con modelos analíticos y ciencia de datos** — postgraduate course, Facultad de Ciencias Exactas, Físicas y Naturales, Universidad Nacional de San Juan, Argentina (August–September 2026; 50 hours; in progress).
+- The course covers descriptive, predictive, and prescriptive analytics; exploratory data analysis and visualisation; machine learning and model validation; optimisation and simulation; decision-support systems; and data/model governance.
+- This is a postgraduate course offered within the Doctorado en Ciencias de la Informática academic programme; it is not represented here as doctoral enrolment.
+
 ## Evidence and representation boundaries
 
 The repositories above contain different kinds of evidence: a research prototype, a conceptual architecture, and a clinical-operational analysis. None should be described as:
