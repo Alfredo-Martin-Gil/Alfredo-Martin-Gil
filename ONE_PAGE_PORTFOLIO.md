@@ -10,6 +10,10 @@ Spain · Open to relevant Canadian and remote opportunities
 
 Physician with clinical experience across urgent and prehospital care, dialysis, chronic care, and care of older adults, complemented by postgraduate healthcare-AI training. My work focuses on the implementation layer between a technical artefact and responsible clinical use: workflow fit, failure behaviour, traceability, evaluation design, human oversight, and governance.
 
+### Selected publications
+
+Author of three published books on healthcare AI. A fourth general-audience title, **Inteligencia artificial para la vida real**, is forthcoming in 2026 via Amazon KDP; paperback ISBN-13 `979-8193680574` (imprint: `Independently published`).
+
 ### Three connected projects
 
 **Clinical NLP Triage — applied research prototype**  
