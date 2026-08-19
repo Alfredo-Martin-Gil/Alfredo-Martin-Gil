@@ -2,7 +2,7 @@
 
 ## Professional summary
 
-Physician with clinical experience across urgent and prehospital care, dialysis, chronic care, and care of older adults, complemented by postgraduate training in artificial intelligence applied to healthcare. Builds bounded Clinical AI research artefacts that connect workflow analysis, transparent synthetic evaluation, traceability, failure behaviour, human oversight, and governance. Seeking Canadian or remote roles in clinical implementation, digital health, Clinical AI evaluation, healthcare product collaboration, or AI governance that do not require presenting prototype work as clinical deployment.
+Physician with clinical experience across urgent and prehospital care, dialysis, chronic care, and care of older adults, complemented by postgraduate training in artificial intelligence applied to healthcare. Builds bounded Clinical AI research artefacts that connect workflow analysis, transparent synthetic evaluation, traceability, failure behaviour, human oversight, and governance. Author of three published books on healthcare AI; a fourth general-audience title, **Inteligencia artificial para la vida real**, is forthcoming in 2026 via Amazon KDP (paperback ISBN-13 `979-8193680574`, imprint `Independently published`). Seeking Canadian or remote roles in clinical implementation, digital health, Clinical AI evaluation, healthcare product collaboration, or AI governance that do not require presenting prototype work as clinical deployment.
 
 ## Two-line portfolio summary
 
