@@ -68,6 +68,7 @@ This sequence supports implementation work without turning a prototype or concep
 
 ### Editorial work in progress
 
+- **Inteligencia artificial para la vida real.** Forthcoming 2026 via Amazon KDP. Paperback ISBN-13: `979-8193680574`. Imprint: `Independently published`. ISBN assigned; the title is not represented as already released until the Amazon listing is live.
 - **Inteligencia artificial en pacientes complejos y de alto riesgo.** Spanish-language manuscript in final editorial proofing, with a verified reflowable EPUB and 17 × 25 cm print-layout proof. Not yet published; no ISBN is claimed.
 
 ## Current professional development
