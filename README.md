@@ -4,13 +4,14 @@
 
 Physician working at the intersection of clinical workflows, auditable AI prototypes, patient-safety boundaries, human oversight, evaluation, and healthcare implementation.
 
-My public portfolio is intentionally small: one applied research prototype, one conceptual safety architecture, and one clinical-operational foundation. Together, they show how I move from a real workflow problem to a bounded technical exploration and a research agenda.
+My selected portfolio combines one applied research prototype, one conceptual safety architecture, one clinical-operational foundation, and two reproducible implementation case studies. Together, they show how I move from a real workflow problem to a bounded technical exploration, an auditable implementation, and a research agenda.
 
 ## Portfolio at a glance
 
 - [One-page portfolio](ONE_PAGE_PORTFOLIO.md) — concise, printable overview.
 - [Evidence inventory](EVIDENCE_INVENTORY.md) — artefacts, current commits, evidence types, and limits.
 - [Reusable CV summary](CV_SUMMARY.md) — short descriptions for Canadian applications.
+- [Comparative portfolio audit](PORTFOLIO_AUDIT_2026-08-22.md) — verified before/after review of all nine public repositories.
 
 ## Selected Clinical AI portfolio
 
@@ -44,7 +45,29 @@ A clinical-operational analysis of decision-making under uncertainty in prehospi
 
 **Boundary:** operational analysis, not a guideline, protocol, algorithm, or software implementation.
 
-## How the three projects connect
+## Reproducible implementation case studies
+
+### Synthetic EHR to FHIR readmissions
+
+[**ehr-fhir-readmissions**](https://github.com/Alfredo-Martin-Gil/ehr-fhir-readmissions)
+
+A deterministic local workflow that turns six fully synthetic encounters into quality-checked FHIR R4-shaped resources and a derived 30-day readmission table.
+
+**Demonstrates:** interoperability reasoning, data contracts, quality gates, reproducible artefacts, tests, licensing, and CI.
+
+**Boundary:** synthetic technical demonstration only. It is not a predictive model, deployed integration, externally validated FHIR conformance implementation, or clinical system.
+
+### Cardiovascular ML methodology audit
+
+[**TFM_Cardiovascular_AI**](https://github.com/Alfredo-Martin-Gil/TFM_Cardiovascular_AI)
+
+A reproducible repair of a previous thesis analysis: raw data are split before learned transformations; imputation, scaling, and Framingham SMOTE remain inside training pipelines; the test set stays isolated.
+
+**Demonstrates:** leakage detection and repair, pipeline design, provenance hashes, reproducible holdout reporting, tests, CI, and preservation of negative results.
+
+**Boundary:** retrospective technical holdout only. It is not externally validated, calibrated for clinical use, geographically generalisable, or suitable for patient decisions. Dataset redistribution terms still require confirmation.
+
+## How the three core projects connect
 
 1. **Clinical foundation:** describe the workflow, uncertainty, and responsibility boundaries.
 2. **Applied prototype:** test a transparent, auditable approach with synthetic data and explicit failure analysis.
@@ -92,7 +115,7 @@ Synthetic benchmark results are engineering evidence only and do not establish c
 
 ## Verified repository state
 
-The [evidence inventory](EVIDENCE_INVENTORY.md) links the current integration commits, including the flagship safety-coherence work, the residual-claim correction, the two supporting-project consolidations, and the historical-repository redirects.
+The [evidence inventory](EVIDENCE_INVENTORY.md) links the current integration commits, reproducible artefacts, metrics, and explicit limits. The [comparative audit](PORTFOLIO_AUDIT_2026-08-22.md) records the verified before/after state of all nine public repositories and the remaining non-cosmetic work.
 
 ## Connect
 
