@@ -2,8 +2,8 @@
 
 ## Alfredo Martín Gil, MD
 
-**Clinical AI & Healthcare Implementation Physician**  
-Spain · Open to relevant Canadian and remote opportunities  
+**Physician focused on clinical AI evaluation, patient safety and governance**  
+San Juan, Argentina · Open to remote collaboration with Canadian healthcare technology teams  
 [Email](mailto:alfredomartinmedico@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfredo-martin-gil-4189a12b7/) · [GitHub](https://github.com/Alfredo-Martin-Gil)
 
 ### Professional focus
@@ -18,7 +18,7 @@ Author of three published books on healthcare AI. A fourth general-audience titl
 
 **Clinical NLP Triage — applied research prototype**  
 An auditable rules-based prototype for lexical signal detection in free-text triage notes. It uses 180 synthetic cases, publishes negative results and error analysis, includes nine software tests, and runs synthetic evaluation in CI. Zero detected lexicon signals are explicitly not interpreted as low clinical risk.  
-[Repository](https://github.com/Alfredo-Martin-Gil/clinical-nlp-triage-open-source) · [Current integration commit](https://github.com/Alfredo-Martin-Gil/clinical-nlp-triage-open-source/commit/8381a93896b1175ffbe1a85b2fa82d6454396d4d)
+[Repository](https://github.com/Alfredo-Martin-Gil/clinical-nlp-triage-open-source) · [Synthetic benchmark and error analysis](https://github.com/Alfredo-Martin-Gil/clinical-nlp-triage-open-source/blob/8381a93896b1175ffbe1a85b2fa82d6454396d4d/docs/synthetic_baseline_evaluation_v0.1.md) · [Current integration commit](https://github.com/Alfredo-Martin-Gil/clinical-nlp-triage-open-source/commit/8381a93896b1175ffbe1a85b2fa82d6454396d4d)
 
 **Clinical Reflection Band — research concept**  
 A conceptual architecture exploring whether a minimal, non-directive cue could support reassessment when a clinician's working frame becomes less coherent with an evolving patient trajectory.  
