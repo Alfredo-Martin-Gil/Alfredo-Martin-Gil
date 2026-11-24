@@ -2,7 +2,9 @@
 
 ## Professional summary
 
-Physician with clinical experience across urgent and prehospital care, dialysis, chronic care, and care of older adults, complemented by postgraduate training in artificial intelligence applied to healthcare. Builds bounded Clinical AI research artefacts that connect workflow analysis, transparent synthetic evaluation, traceability, failure behaviour, human oversight, and governance. Author of three published books on healthcare AI; a fourth general-audience title, **Inteligencia artificial para la vida real**, is forthcoming in 2026 via Amazon KDP (paperback ISBN-13 `979-8193680574`, imprint `Independently published`). Seeking Canadian or remote roles in clinical implementation, digital health, Clinical AI evaluation, healthcare product collaboration, or AI governance that do not require presenting prototype work as clinical deployment.
+Physician with clinical experience across urgent and prehospital care, dialysis, chronic care, and care of older adults, complemented by postgraduate training in artificial intelligence applied to healthcare. Builds bounded Clinical AI research artefacts that connect workflow analysis, transparent synthetic evaluation, traceability, failure behaviour, human oversight, and governance. Author of three published books on healthcare AI; a fourth general-audience title, **Inteligencia artificial para la vida real**, is forthcoming in 2026 via Amazon KDP (paperback ISBN-13 `979-8193680574`, imprint `Independently published`). Based in San Juan, Argentina, and seeking remote opportunities with Canadian healthcare technology teams in clinical AI evaluation, patient safety and governance.
+
+[Synthetic triage benchmark and error analysis](https://github.com/Alfredo-Martin-Gil/clinical-nlp-triage-open-source/blob/8381a93896b1175ffbe1a85b2fa82d6454396d4d/docs/synthetic_baseline_evaluation_v0.1.md)
 
 ## Two-line portfolio summary
 
