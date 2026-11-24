@@ -1,10 +1,10 @@
 # Alfredo Martín Gil, MD
 
-**Clinical AI & Healthcare Implementation Physician**
+**Physician focused on clinical AI evaluation, patient safety and governance**
 
-Physician working at the intersection of clinical workflows, auditable AI prototypes, patient-safety boundaries, human oversight, evaluation, and healthcare implementation.
+Based in San Juan, Argentina. Open to remote collaboration with Canadian healthcare technology teams. I draw on experience in prehospital emergency care and dialysis to evaluate how AI systems can fail in clinical workflows and how teams can make those failures visible.
 
-My selected portfolio combines one applied research prototype, one conceptual safety architecture, one clinical-operational foundation, and two reproducible implementation case studies. Together, they show how I move from a real workflow problem to a bounded technical exploration, an auditable implementation, and a research agenda.
+**Start with the [synthetic triage benchmark and error analysis](https://github.com/Alfredo-Martin-Gil/clinical-nlp-triage-open-source/blob/8381a93896b1175ffbe1a85b2fa82d6454396d4d/docs/synthetic_baseline_evaluation_v0.1.md).** In 38 of 84 synthetic cases labelled high, the prototype detected no configured lexical signal. I use this case to explain why the output messaging was changed to prevent false reassurance while the benchmark results remained visible.
 
 ## Portfolio at a glance
 
